@@ -23,13 +23,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/firstproject/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/firstproject/main/static/main" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Documents\Python\django_test_static\firstproject\main" />
       <recent name="C:\Users\User\Documents\Python\django_test_static\firstproject\main\static\main" />
+      <recent name="C:\Users\User\Documents\Python\django_test_static\firstproject\main" />
     </key>
   </component>
   <component name="SvnConfiguration">
